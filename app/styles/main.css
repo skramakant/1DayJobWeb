@@ -1,0 +1,27 @@
+/*header css*/
+.menuicon {
+  padding-bottom:40px;
+  padding-left: 10px;
+  background: blue-grey;
+}
+ .toolbar h2{
+   padding-bottom: 10px;
+   padding-left: 10px;
+ }
+.sidenav{
+  height: 650px;
+  width: 250px;
+  background-color: #20B2AA;
+}
+.maincontentdiv{
+  height: 650px;
+  padding: 10px;
+}
+.sidenavicon{
+  margin: 15px;
+}
+.footer{
+  padding-top :15px;
+  padding-left :10px;
+  padding-bottom:3px;
+}
